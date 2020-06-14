@@ -47,7 +47,7 @@ $ roslaunch carla_autoware_bridge carla_autoware_bridge.launch town:=Town05
 $ roslaunch runtime_manager runtime_manager.launch
 ```
 
-And, Please specify the following launch files in runtime_manager.
+And, please specify the following launch files in runtime_manager.
 
 |Task|launch file|
 |---|---|
